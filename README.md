@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>http/www.akashkumardas/homepage.com</title>
+    <title>www.akashkumardas.com</title>
     <link rel="stylesheet" href="sheet.css">
   </head>
   <body id="a">
