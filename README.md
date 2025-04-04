@@ -109,7 +109,7 @@ footer {
      <h4>Akash Kumar Das</h4>
     <p>Secondary School Student | Passionate Learner</p>
    <footer>
-    <p>&copy; 2025 Akash Kumar Das. All Rights Reserved.</p>
+   <p>&copy; 2025 Akash Kumar Das. All Rights Reserved.</p>
    </footer>
   </body>
 </html>
