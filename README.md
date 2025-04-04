@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>www.akashkumardas.com</title>
     <link rel="stylesheet" href="sheet.css">
   </head>
   <body id="a">
