@@ -85,6 +85,7 @@ footer {
           margin-top: 20px;
         }
     </style>
+</head>
   <body id="a">
     <header>
     <h1>
